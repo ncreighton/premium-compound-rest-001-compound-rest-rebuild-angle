@@ -1,0 +1,2 @@
+# premium-compound-rest-001-compound-rest-rebuild-angle
+Tired of guessing angles and losing track of your compound rest rebuild steps? The Compound Rest Rebuild &amp; Angle Set Craft Studio turns your messy notes into a precision workshop inside Notion.  This template eliminates the headache of documenting disassembly, tracking shim stacks, and recalculating taper angles. With pre-built databases for parts,
